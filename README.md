@@ -45,6 +45,8 @@ live-weather-app/
 ├── .gitignore             # Files to ignore in Git tracking
 ├── package.json           # Project dependencies and scripts
 └── README.md              # Project documentation
+```
+---
 
 ⚙️ Getting Started Locally
 To run this project on your local machine, follow these steps:
