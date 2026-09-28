@@ -48,7 +48,7 @@ live-weather-app/
 ```
 ---
 
-⚙️ Getting Started Locally
+#⚙️ Getting Started Locally
 To run this project on your local machine, follow these steps:
 
 1. Clone the repository
@@ -72,5 +72,5 @@ npm run dev
 Open http://localhost:5173 in your browser to view the app.
 
 
-📄 License
+#📄 License
 This project is open-source and available under the MIT License.
